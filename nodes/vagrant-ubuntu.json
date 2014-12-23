@@ -4,5 +4,8 @@
   ],
   "automatic": {
     "ipaddress": "vagrant-ubuntu"
+  },
+  "nginx": {
+    "worker_processes": 2
   }
 }
